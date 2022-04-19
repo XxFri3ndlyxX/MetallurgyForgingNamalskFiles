@@ -1,0 +1,86 @@
+
+    <event name="ItemSulfurOreBoulder"><!-- 90 coords -->
+        <nominal>10</nominal>
+        <min>30</min><!-- Not Being Used -->
+        <max>60</max><!-- Not Being Used -->
+        <lifetime>604800</lifetime>
+        <restock>1800</restock> <!-- 30 min timer before a boulder respawn. -->
+        <saferadius>20</saferadius>
+        <distanceradius>10</distanceradius><!-- Since they are over 80 spawn location ive set this to 10. This mean they will spread a bit. -->
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit><!-- Changed from mixed to child This mean it will only consider min and max from child -->
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="60" min="30" type="SulfurOreBoulder"/>
+        </children>
+    </event>
+    <event name="ItemIronOreBoulder"><!-- 55 coords -->
+        <nominal>10</nominal>
+        <min>10</min><!-- Not Being Used -->
+        <max>20</max><!-- Not Being Used -->
+        <lifetime>604800</lifetime>
+        <restock>1800</restock><!-- 30 min timer before a boulder respawn. -->
+        <saferadius>20</saferadius>
+        <distanceradius>1</distanceradius><!-- Since ore boulders are in a cave and they are less spread. Ive set the distance to 1 -->
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit><!-- Changed from mixed to child This mean it will only consider min and max from child -->
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="20" min="10" type="IronOreBoulder"/>
+        </children>
+    </event>
+    <event name="ItemLeadOreBoulder"><!-- 69 coords -->
+        <nominal>10</nominal>
+        <min>10</min><!-- Not Being Used -->
+        <max>20</max><!-- Not Being Used -->
+        <lifetime>604800</lifetime>
+        <restock>1800</restock><!-- 30 min timer before a boulder respawn. -->
+        <saferadius>20</saferadius>
+        <distanceradius>1</distanceradius><!-- Since ore boulders are in a cave and they are less spread. Ive set the distance to 1 -->
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit><!-- Changed from mixed to child This mean it will only consider min and max from child -->
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="20" min="10" type="LeadOreBoulder"/>
+        </children>
+    </event>
+    <event name="ItemCopperOreBoulder"><!-- 107 coords -->
+        <nominal>35</nominal>
+        <min>35</min><!-- Not Being Used -->
+        <max>70</max><!-- Not Being Used -->
+        <lifetime>604800</lifetime>
+        <restock>1800</restock><!-- 30 min timer before a boulder respawn. -->
+        <saferadius>20</saferadius>
+        <distanceradius>10</distanceradius><!-- Since they are over 80 spawn location ive set this to 10. This mean they will spread a bit. -->
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit><!-- Changed from mixed to child This mean it will only consider min and max from child -->
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="70" min="35" type="CopperOreBoulder"/>
+        </children>
+    </event>
+    <event name="ItemCoalOreBoulder"><!-- 49 coords -->
+        <nominal>10</nominal>
+        <min>10</min><!-- Not Being Used -->
+        <max>20</max><!-- Not Being Used --> 
+        <lifetime>604800</lifetime>
+        <restock>1800</restock><!-- 30 min timer before a boulder respawn. -->
+        <saferadius>20</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit><!-- Changed from mixed to child This mean it will only consider min and max from child -->
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="20" min="10" type="CoalOreBoulder"/>
+        </children>
+    </event>

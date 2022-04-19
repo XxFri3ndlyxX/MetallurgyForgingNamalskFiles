@@ -1,0 +1,3138 @@
+{
+    "MapName": "namalsk",
+    "CameraPosition": [
+        2997.458740234375,
+        41.534610748291019,
+        7223.6337890625
+    ],
+    "EditorObjects": [
+        {
+            "Type": "bldr_rock_bright_monolith1",
+            "DisplayName": "bldr_rock_bright_monolith1",
+            "Position": [
+                3042.19287109375,
+                57.96669006347656,
+                7234.0244140625
+            ],
+            "Orientation": [
+                -44.99999237060547,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wreck_digger",
+            "DisplayName": "bldr_wreck_digger",
+            "Position": [
+                2995.199951171875,
+                44.77000045776367,
+                7224.7998046875
+            ],
+            "Orientation": [
+                120.99999237060547,
+                9.0,
+                6.690000057220459
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_stone5",
+            "DisplayName": "bldr_stone5",
+            "Position": [
+                2998.965576171875,
+                42.579837799072269,
+                7222.2529296875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_wreck_digger",
+            "DisplayName": "bldr_wreck_digger",
+            "Position": [
+                3008.889892578125,
+                49.805599212646487,
+                7191.72998046875
+            ],
+            "Orientation": [
+                -36.999996185302737,
+                -17.399999618530275,
+                -1.5000001192092896
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Spotlight",
+            "DisplayName": "bldr_prop_Spotlight",
+            "Position": [
+                2992.729248046875,
+                40.854068756103519,
+                7220.77392578125
+            ],
+            "Orientation": [
+                -72.00001525878906,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Spotlight",
+            "DisplayName": "bldr_prop_Spotlight",
+            "Position": [
+                3031.977783203125,
+                50.85744094848633,
+                7187.8154296875
+            ],
+            "Orientation": [
+                -80.9999771118164,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Spotlight",
+            "DisplayName": "bldr_prop_Spotlight",
+            "Position": [
+                3063.94287109375,
+                60.905155181884769,
+                7225.76171875
+            ],
+            "Orientation": [
+                117.0,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_PowerGenerator",
+            "DisplayName": "bldr_prop_PowerGenerator",
+            "Position": [
+                2991.9599609375,
+                40.790000915527347,
+                7221.3798828125
+            ],
+            "Orientation": [
+                -161.9999542236328,
+                0.0,
+                7.999997138977051
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_mil_radar_mobile_generator",
+            "DisplayName": "bldr_mil_radar_mobile_generator",
+            "Position": [
+                2975.4599609375,
+                40.900001525878909,
+                7236.9501953125
+            ],
+            "Orientation": [
+                117.0,
+                0.0,
+                5.499999046325684
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_power_pole_conc4_lamp",
+            "DisplayName": "bldr_power_pole_conc4_lamp",
+            "Position": [
+                2976.699951171875,
+                44.11899948120117,
+                7232.259765625
+            ],
+            "Orientation": [
+                -153.5,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_sign_quarry",
+            "DisplayName": "bldr_sign_quarry",
+            "Position": [
+                2973.0400390625,
+                39.95100021362305,
+                7215.39990234375
+            ],
+            "Orientation": [
+                25.5,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_PowerGenerator",
+            "DisplayName": "bldr_prop_PowerGenerator",
+            "Position": [
+                3063.820068359375,
+                60.73262023925781,
+                7224.77978515625
+            ],
+            "Orientation": [
+                -98.99998474121094,
+                0.0,
+                -3.4999945163726808
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_PowerGenerator",
+            "DisplayName": "bldr_prop_PowerGenerator",
+            "Position": [
+                3031.60009765625,
+                50.995513916015628,
+                7186.97021484375
+            ],
+            "Orientation": [
+                152.9999237060547,
+                14.499994277954102,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Spotlight",
+            "DisplayName": "bldr_prop_Spotlight",
+            "Position": [
+                3031.026123046875,
+                50.9406852722168,
+                7186.6171875
+            ],
+            "Orientation": [
+                35.99998092651367,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Spotlight",
+            "DisplayName": "bldr_prop_Spotlight",
+            "Position": [
+                3027.740478515625,
+                50.6479377746582,
+                7186.22021484375
+            ],
+            "Orientation": [
+                89.99995422363281,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Spotlight",
+            "DisplayName": "bldr_prop_Spotlight",
+            "Position": [
+                3063.02490234375,
+                60.80729293823242,
+                7228.63525390625
+            ],
+            "Orientation": [
+                -153.00006103515626,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Spotlight",
+            "DisplayName": "bldr_prop_Spotlight",
+            "Position": [
+                3064.080078125,
+                59.882999420166019,
+                7217.5
+            ],
+            "Orientation": [
+                27.0,
+                7.999997138977051,
+                -1.5000001192092896
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Spotlight",
+            "DisplayName": "bldr_prop_Spotlight",
+            "Position": [
+                2989.413330078125,
+                40.324283599853519,
+                7220.08984375
+            ],
+            "Orientation": [
+                53.999969482421878,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_prop_Spotlight",
+            "DisplayName": "bldr_prop_Spotlight",
+            "Position": [
+                2990.475341796875,
+                40.51099395751953,
+                7221.771484375
+            ],
+            "Orientation": [
+                152.99990844726563,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Shed_W1",
+            "DisplayName": "Land_Shed_W1",
+            "Position": [
+                2982.219970703125,
+                42.02821731567383,
+                7240.919921875
+            ],
+            "Orientation": [
+                -45.0,
+                0.0,
+                -1.5
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Misc_TrailRoof_Small",
+            "DisplayName": "Land_Misc_TrailRoof_Small",
+            "Position": [
+                2971.6298828125,
+                40.127174377441409,
+                7223.06982421875
+            ],
+            "Orientation": [
+                -161.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Misc_Toilet_Mobile",
+            "DisplayName": "Land_Misc_Toilet_Mobile",
+            "Position": [
+                2965.226806640625,
+                40.500457763671878,
+                7215.5947265625
+            ],
+            "Orientation": [
+                -80.9999771118164,
+                0.0,
+                1.9999990463256837
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Misc_Toilet_Mobile",
+            "DisplayName": "Land_Misc_Toilet_Mobile",
+            "Position": [
+                2964.56005859375,
+                40.32320022583008,
+                7217.58984375
+            ],
+            "Orientation": [
+                -130.49998474121095,
+                0.49999698996543887,
+                3.499969720840454
+            ],
+            "Scale": 0.9999998807907105,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Wreck_hb01_aban2_white",
+            "DisplayName": "Land_Wreck_hb01_aban2_white",
+            "Position": [
+                2976.174072265625,
+                39.92407989501953,
+                7227.68359375
+            ],
+            "Orientation": [
+                161.9998321533203,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "land_misc_barel_fire_1",
+            "DisplayName": "land_misc_barel_fire_1",
+            "Position": [
+                2972.2490234375,
+                39.23373794555664,
+                7229.091796875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_rocks2",
+            "DisplayName": "bldr_Decal_dirt_rocks2",
+            "Position": [
+                3009.050048828125,
+                47.890377044677737,
+                7193.48828125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_rocks2",
+            "DisplayName": "bldr_Decal_dirt_rocks2",
+            "Position": [
+                3011.95166015625,
+                48.517417907714847,
+                7193.46630859375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_rocks2",
+            "DisplayName": "bldr_Decal_dirt_rocks2",
+            "Position": [
+                3015.64111328125,
+                48.35153579711914,
+                7200.017578125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_rocks2",
+            "DisplayName": "bldr_Decal_dirt_rocks2",
+            "Position": [
+                3009.05419921875,
+                48.59486770629883,
+                7190.4697265625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_rocks2",
+            "DisplayName": "bldr_Decal_dirt_rocks2",
+            "Position": [
+                3010.517333984375,
+                51.10602951049805,
+                7187.1748046875
+            ],
+            "Orientation": [
+                89.99995422363281,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_rocks2",
+            "DisplayName": "bldr_Decal_dirt_rocks2",
+            "Position": [
+                3010.063720703125,
+                48.6707763671875,
+                7191.02685546875
+            ],
+            "Orientation": [
+                134.99986267089845,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_rocks2",
+            "DisplayName": "bldr_Decal_dirt_rocks2",
+            "Position": [
+                3011.500732421875,
+                49.37928009033203,
+                7189.2763671875
+            ],
+            "Orientation": [
+                44.99999237060547,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_rocks2",
+            "DisplayName": "bldr_Decal_dirt_rocks2",
+            "Position": [
+                3013.56640625,
+                49.60712814331055,
+                7189.90380859375
+            ],
+            "Orientation": [
+                143.99989318847657,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_rocks2",
+            "DisplayName": "bldr_Decal_dirt_rocks2",
+            "Position": [
+                3006.56884765625,
+                47.37337112426758,
+                7195.30078125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_rocks2",
+            "DisplayName": "bldr_Decal_dirt_rocks2",
+            "Position": [
+                3007.889404296875,
+                47.930023193359378,
+                7192.2265625
+            ],
+            "Orientation": [
+                80.9999771118164,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_rocks2",
+            "DisplayName": "bldr_Decal_dirt_rocks2",
+            "Position": [
+                3006.78662109375,
+                47.382137298583987,
+                7193.58837890625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_rocks2",
+            "DisplayName": "bldr_Decal_dirt_rocks2",
+            "Position": [
+                3045.43359375,
+                54.47736358642578,
+                7197.39599609375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_spike3",
+            "DisplayName": "bldr_rock_spike3",
+            "Position": [
+                3049.47900390625,
+                52.93349838256836,
+                7203.37109375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_rocks2",
+            "DisplayName": "bldr_Decal_dirt_rocks2",
+            "Position": [
+                2995.21337890625,
+                44.6983757019043,
+                7223.81689453125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_rocks2",
+            "DisplayName": "bldr_Decal_dirt_rocks2",
+            "Position": [
+                2994.965576171875,
+                43.275325775146487,
+                7226.03173828125
+            ],
+            "Orientation": [
+                18.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_rocks2",
+            "DisplayName": "bldr_Decal_dirt_rocks2",
+            "Position": [
+                2998.718994140625,
+                44.0567626953125,
+                7222.6005859375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_rocks2",
+            "DisplayName": "bldr_Decal_dirt_rocks2",
+            "Position": [
+                2997.458740234375,
+                43.33460998535156,
+                7223.6337890625
+            ],
+            "Orientation": [
+                98.99996185302735,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_rocks2",
+            "DisplayName": "bldr_Decal_dirt_rocks2",
+            "Position": [
+                2992.091552734375,
+                43.338008880615237,
+                7224.9775390625
+            ],
+            "Orientation": [
+                44.99999237060547,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Decal_dirt_rocks2",
+            "DisplayName": "bldr_Decal_dirt_rocks2",
+            "Position": [
+                2994.080322265625,
+                43.222198486328128,
+                7227.6884765625
+            ],
+            "Orientation": [
+                89.99995422363281,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "rbldr_road_grav_6konec",
+            "DisplayName": "rbldr_road_grav_6konec",
+            "Position": [
+                2975.66796875,
+                42.954978942871097,
+                7212.65087890625
+            ],
+            "Orientation": [
+                -135.0,
+                1.5,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "rbldr_road_grav_7_100",
+            "DisplayName": "rbldr_road_grav_7_100",
+            "Position": [
+                2969.22998046875,
+                46.44850158691406,
+                7205.740234375
+            ],
+            "Orientation": [
+                37.999996185302737,
+                1.5,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "rbldr_road_grav_22_50",
+            "DisplayName": "rbldr_road_grav_22_50",
+            "Position": [
+                2960.54052734375,
+                49.55442810058594,
+                7192.62890625
+            ],
+            "Orientation": [
+                15.499979972839356,
+                1.5,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "rbldr_road_grav_7_100",
+            "DisplayName": "rbldr_road_grav_7_100",
+            "Position": [
+                2954.71484375,
+                48.04508972167969,
+                7177.18896484375
+            ],
+            "Orientation": [
+                9.0,
+                1.5,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "rbldr_road_grav_60_10",
+            "DisplayName": "rbldr_road_grav_60_10",
+            "Position": [
+                2953.623046875,
+                50.031246185302737,
+                7166.171875
+            ],
+            "Orientation": [
+                -50.919830322265628,
+                1.5,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "rbldr_road_grav_25",
+            "DisplayName": "rbldr_road_grav_25",
+            "Position": [
+                2966.47216796875,
+                54.0440559387207,
+                7153.51953125
+            ],
+            "Orientation": [
+                -50.9999885559082,
+                1.5,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "rbldr_road_grav_25",
+            "DisplayName": "rbldr_road_grav_25",
+            "Position": [
+                3005.1162109375,
+                68.78142547607422,
+                7122.1005859375
+            ],
+            "Orientation": [
+                -50.4999885559082,
+                1.5,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "rbldr_road_grav_7_100",
+            "DisplayName": "rbldr_road_grav_7_100",
+            "Position": [
+                3019.8115234375,
+                73.91368103027344,
+                7109.87841796875
+            ],
+            "Orientation": [
+                125.99992370605469,
+                1.5,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "rbldr_road_grav_6konec",
+            "DisplayName": "rbldr_road_grav_6konec",
+            "Position": [
+                3035.260498046875,
+                80.00375366210938,
+                7095.3427734375
+            ],
+            "Orientation": [
+                -44.99999237060547,
+                1.5,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "rbldr_road_grav_6",
+            "DisplayName": "rbldr_road_grav_6",
+            "Position": [
+                3026.8330078125,
+                76.80352783203125,
+                7103.7060546875
+            ],
+            "Orientation": [
+                -44.99999237060547,
+                1.5,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "rbldr_road_grav_6",
+            "DisplayName": "rbldr_road_grav_6",
+            "Position": [
+                3030.84375,
+                79.65457916259766,
+                7099.69140625
+            ],
+            "Orientation": [
+                -44.99998092651367,
+                1.5,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_sign_right",
+            "DisplayName": "bldr_sign_right",
+            "Position": [
+                2962.840087890625,
+                46.9749755859375,
+                7161.02001953125
+            ],
+            "Orientation": [
+                -44.99993896484375,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_SignT_SharpBendRight",
+            "DisplayName": "bldr_SignT_SharpBendRight",
+            "Position": [
+                2950.838134765625,
+                46.00494384765625,
+                7161.0859375
+            ],
+            "Orientation": [
+                -53.999996185302737,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_SignT_SharpBendRight",
+            "DisplayName": "bldr_SignT_SharpBendRight",
+            "Position": [
+                2949.28271484375,
+                45.28673553466797,
+                7164.45068359375
+            ],
+            "Orientation": [
+                -53.999996185302737,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_SignT_SharpBendRight",
+            "DisplayName": "bldr_SignT_SharpBendRight",
+            "Position": [
+                2948.139892578125,
+                44.121551513671878,
+                7168.3359375
+            ],
+            "Orientation": [
+                -53.999996185302737,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_SignT_SharpBendRight",
+            "DisplayName": "bldr_SignT_SharpBendRight",
+            "Position": [
+                2947.83056640625,
+                42.897762298583987,
+                7173.87451171875
+            ],
+            "Orientation": [
+                -53.999996185302737,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_sign_speed20",
+            "DisplayName": "bldr_sign_speed20",
+            "Position": [
+                3029.93603515625,
+                75.03215026855469,
+                7105.021484375
+            ],
+            "Orientation": [
+                -42.49998092651367,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_sign_downhill",
+            "DisplayName": "bldr_sign_downhill",
+            "Position": [
+                3032.862060546875,
+                76.92999267578125,
+                7102.8583984375
+            ],
+            "Orientation": [
+                -26.999971389770509,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_sign_left",
+            "DisplayName": "bldr_sign_left",
+            "Position": [
+                2952.857666015625,
+                42.910335540771487,
+                7184.39990234375
+            ],
+            "Orientation": [
+                -143.99989318847657,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_sign_uphill",
+            "DisplayName": "bldr_sign_uphill",
+            "Position": [
+                2964.35205078125,
+                47.72806930541992,
+                7149.751953125
+            ],
+            "Orientation": [
+                143.99989318847657,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_sign_uphill",
+            "DisplayName": "bldr_sign_uphill",
+            "Position": [
+                3012.788818359375,
+                67.63660430908203,
+                7110.14892578125
+            ],
+            "Orientation": [
+                134.99986267089845,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "Land_Camp_House_brown",
+            "DisplayName": "Land_Camp_House_brown",
+            "Position": [
+                2965.648681640625,
+                41.31947708129883,
+                7230.9248046875
+            ],
+            "Orientation": [
+                -71.99981689453125,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_flag_chernarus_pole",
+            "DisplayName": "bldr_flag_chernarus_pole",
+            "Position": [
+                2969.81005859375,
+                41.215999603271487,
+                7233.0498046875
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_Chair_Camp1",
+            "DisplayName": "bldr_Misc_Chair_Camp1",
+            "Position": [
+                2968.304931640625,
+                40.1532096862793,
+                7233.22119140625
+            ],
+            "Orientation": [
+                -35.99998092651367,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_Chair_Camp2",
+            "DisplayName": "bldr_Misc_Chair_Camp2",
+            "Position": [
+                2967.5009765625,
+                40.1598014831543,
+                7231.68896484375
+            ],
+            "Orientation": [
+                -71.99994659423828,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Garbage_Container2_Closed",
+            "DisplayName": "bldr_Garbage_Container2_Closed",
+            "Position": [
+                2964.984130859375,
+                40.21668243408203,
+                7213.45166015625
+            ],
+            "Orientation": [
+                179.9998779296875,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_stones_moss_group_2",
+            "DisplayName": "bldr_stones_moss_group_2",
+            "Position": [
+                3057.389892578125,
+                57.67207717895508,
+                7215.580078125
+            ],
+            "Orientation": [
+                63.0,
+                7.500000476837158,
+                -1.9999996423721314
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_stones_moss_group_3",
+            "DisplayName": "bldr_stones_moss_group_3",
+            "Position": [
+                3058.590087890625,
+                56.625389099121097,
+                7193.33984375
+            ],
+            "Orientation": [
+                63.999996185302737,
+                16.5,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_BoundaryStone_Plastic",
+            "DisplayName": "bldr_Misc_BoundaryStone_Plastic",
+            "Position": [
+                3035.55078125,
+                77.34638977050781,
+                7098.95849609375
+            ],
+            "Orientation": [
+                -44.99981689453125,
+                0.0,
+                0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_BoundaryStone_Plastic",
+            "DisplayName": "bldr_Misc_BoundaryStone_Plastic",
+            "Position": [
+                3027.3427734375,
+                73.27103424072266,
+                7106.6953125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_BoundaryStone_Plastic",
+            "DisplayName": "bldr_Misc_BoundaryStone_Plastic",
+            "Position": [
+                3012.42431640625,
+                63.78388977050781,
+                7119.88037109375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_BoundaryStone_Plastic",
+            "DisplayName": "bldr_Misc_BoundaryStone_Plastic",
+            "Position": [
+                2997.2333984375,
+                57.522377014160159,
+                7132.17333984375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_BoundaryStone_Plastic",
+            "DisplayName": "bldr_Misc_BoundaryStone_Plastic",
+            "Position": [
+                2976.363525390625,
+                49.687156677246097,
+                7149.109375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_BoundaryStone_Plastic",
+            "DisplayName": "bldr_Misc_BoundaryStone_Plastic",
+            "Position": [
+                2962.954345703125,
+                46.29711151123047,
+                7160.3701171875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_BoundaryStone_Plastic",
+            "DisplayName": "bldr_Misc_BoundaryStone_Plastic",
+            "Position": [
+                2957.582763671875,
+                45.97142791748047,
+                7165.158203125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_BoundaryStone_Plastic",
+            "DisplayName": "bldr_Misc_BoundaryStone_Plastic",
+            "Position": [
+                2956.73095703125,
+                44.370975494384769,
+                7173.72998046875
+            ],
+            "Orientation": [
+                35.99998092651367,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_BoundaryStone_Plastic",
+            "DisplayName": "bldr_Misc_BoundaryStone_Plastic",
+            "Position": [
+                2961.38134765625,
+                43.18842315673828,
+                7189.2548828125
+            ],
+            "Orientation": [
+                35.99998092651367,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Misc_BoundaryStone_Plastic",
+            "DisplayName": "bldr_Misc_BoundaryStone_Plastic",
+            "Position": [
+                2969.332275390625,
+                41.58967208862305,
+                7202.0380859375
+            ],
+            "Orientation": [
+                44.99999237060547,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "rbldr_road_grav_25",
+            "DisplayName": "rbldr_road_grav_25",
+            "Position": [
+                2985.85498046875,
+                64.55575561523438,
+                7137.8369140625
+            ],
+            "Orientation": [
+                -50.63372802734375,
+                -3.9999959468841554,
+                -3.499999523162842
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_kitchenstove_elec",
+            "DisplayName": "bldr_kitchenstove_elec",
+            "Position": [
+                2966.52001953125,
+                39.64606857299805,
+                7232.330078125
+            ],
+            "Orientation": [
+                107.99999237060547,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_fridge",
+            "DisplayName": "bldr_fridge",
+            "Position": [
+                2961.75,
+                39.64400100708008,
+                7232.6298828125
+            ],
+            "Orientation": [
+                107.99999237060547,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_fusebox",
+            "DisplayName": "bldr_fusebox",
+            "Position": [
+                2966.02734375,
+                40.98530960083008,
+                7234.3408203125
+            ],
+            "Orientation": [
+                107.99999237060547,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Power_Pole_Wood6_End",
+            "DisplayName": "bldr_Power_Pole_Wood6_End",
+            "Position": [
+                2966.354736328125,
+                42.04780578613281,
+                7235.0087890625
+            ],
+            "Orientation": [
+                18.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_Rubble_Rocks1",
+            "DisplayName": "bldr_Rubble_Rocks1",
+            "Position": [
+                2970.004150390625,
+                35.794471740722659,
+                7242.64501953125
+            ],
+            "Orientation": [
+                -171.0001220703125,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_spike1",
+            "DisplayName": "bldr_rock_bright_spike1",
+            "Position": [
+                3032.907958984375,
+                71.15570068359375,
+                7157.740234375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_monolith3",
+            "DisplayName": "bldr_rock_bright_monolith3",
+            "Position": [
+                3047.224853515625,
+                63.357635498046878,
+                7166.162109375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_monolith4",
+            "DisplayName": "bldr_rock_bright_monolith4",
+            "Position": [
+                3052.8203125,
+                64.26942443847656,
+                7170.3798828125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_wallh3",
+            "DisplayName": "bldr_rock_bright_wallh3",
+            "Position": [
+                3063.1552734375,
+                64.38294982910156,
+                7181.4853515625
+            ],
+            "Orientation": [
+                134.99986267089845,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_wallh3",
+            "DisplayName": "bldr_rock_bright_wallh3",
+            "Position": [
+                3071.835693359375,
+                63.49665451049805,
+                7201.1103515625
+            ],
+            "Orientation": [
+                89.99995422363281,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_wallh2",
+            "DisplayName": "bldr_rock_bright_wallh2",
+            "Position": [
+                3076.277587890625,
+                67.66786193847656,
+                7238.0869140625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_monolith1",
+            "DisplayName": "bldr_rock_bright_monolith1",
+            "Position": [
+                3057.52978515625,
+                57.69171905517578,
+                7264.39404296875
+            ],
+            "Orientation": [
+                99.32618713378906,
+                90.0,
+                179.99993896484376
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_wallh3",
+            "DisplayName": "bldr_rock_bright_wallh3",
+            "Position": [
+                3042.840576171875,
+                57.88335037231445,
+                7265.57763671875
+            ],
+            "Orientation": [
+                9.999726295471192,
+                -42.49994659423828,
+                -37.999900817871097
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_apart1",
+            "DisplayName": "bldr_rock_bright_apart1",
+            "Position": [
+                3086.15966796875,
+                69.07083892822266,
+                7248.42041015625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_monolith2",
+            "DisplayName": "bldr_rock_bright_monolith2",
+            "Position": [
+                3085.81201171875,
+                66.60389709472656,
+                7221.392578125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_wallh2",
+            "DisplayName": "bldr_rock_bright_wallh2",
+            "Position": [
+                3059.820068359375,
+                74.90435791015625,
+                7178.16015625
+            ],
+            "Orientation": [
+                -130.49998474121095,
+                0.0,
+                9.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_monolith4",
+            "DisplayName": "bldr_rock_bright_monolith4",
+            "Position": [
+                3050.042724609375,
+                57.44402313232422,
+                7241.10400390625
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_monolith2",
+            "DisplayName": "bldr_rock_bright_monolith2",
+            "Position": [
+                3035.5400390625,
+                46.6150016784668,
+                7208.9638671875
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_monolith3",
+            "DisplayName": "bldr_rock_bright_monolith3",
+            "Position": [
+                3019.464599609375,
+                48.306888580322269,
+                7200.73974609375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_apart2",
+            "DisplayName": "bldr_rock_bright_apart2",
+            "Position": [
+                3035.1298828125,
+                55.9185676574707,
+                7177.47998046875
+            ],
+            "Orientation": [
+                0.0,
+                -24.499990463256837,
+                -1.5
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_wallh2",
+            "DisplayName": "bldr_rock_bright_wallh2",
+            "Position": [
+                2998.909912109375,
+                57.31629943847656,
+                7177.2900390625
+            ],
+            "Orientation": [
+                132.99996948242188,
+                22.068801879882814,
+                0.4999998211860657
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_monolith4",
+            "DisplayName": "bldr_rock_bright_monolith4",
+            "Position": [
+                3085.27734375,
+                66.138427734375,
+                7234.1142578125
+            ],
+            "Orientation": [
+                171.0001220703125,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_monolith2",
+            "DisplayName": "bldr_rock_bright_monolith2",
+            "Position": [
+                3081.544677734375,
+                64.88560485839844,
+                7205.0654296875
+            ],
+            "Orientation": [
+                98.99996185302735,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_spike2",
+            "DisplayName": "bldr_rock_bright_spike2",
+            "Position": [
+                3061.384033203125,
+                70.84143829345703,
+                7168.1162109375
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_wallv",
+            "DisplayName": "bldr_rock_bright_wallv",
+            "Position": [
+                3037.0,
+                59.320186614990237,
+                7252.10986328125
+            ],
+            "Orientation": [
+                -55.114601135253909,
+                -55.49969482421875,
+                -99.49998474121094
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_spike3",
+            "DisplayName": "bldr_rock_bright_spike3",
+            "Position": [
+                3019.239990234375,
+                49.41666030883789,
+                7219.2001953125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_monolith2",
+            "DisplayName": "bldr_rock_bright_monolith2",
+            "Position": [
+                2998.3798828125,
+                53.28960037231445,
+                7159.75
+            ],
+            "Orientation": [
+                14.999998092651368,
+                65.0,
+                -7.999997138977051
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_apart1",
+            "DisplayName": "bldr_rock_bright_apart1",
+            "Position": [
+                3026.337646484375,
+                49.024986267089847,
+                7254.7587890625
+            ],
+            "Orientation": [
+                152.99990844726563,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_monolith4",
+            "DisplayName": "bldr_rock_bright_monolith4",
+            "Position": [
+                3028.4453125,
+                49.38611602783203,
+                7236.8486328125
+            ],
+            "Orientation": [
+                179.9998779296875,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_spike1",
+            "DisplayName": "bldr_rock_bright_spike1",
+            "Position": [
+                3060.7578125,
+                72.48347473144531,
+                7249.1611328125
+            ],
+            "Orientation": [
+                147.0,
+                -45.5,
+                -5.999996185302734
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_spike2",
+            "DisplayName": "bldr_rock_bright_spike2",
+            "Position": [
+                3035.770751953125,
+                51.98268127441406,
+                7286.55908203125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_wallh3",
+            "DisplayName": "bldr_rock_bright_wallh3",
+            "Position": [
+                2985.2705078125,
+                46.90684127807617,
+                7176.111328125
+            ],
+            "Orientation": [
+                44.99999237060547,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_wallh2",
+            "DisplayName": "bldr_rock_bright_wallh2",
+            "Position": [
+                3060.10009765625,
+                76.14779663085938,
+                7222.7099609375
+            ],
+            "Orientation": [
+                0.0,
+                0.49999991059303286,
+                -92.99999237060547
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_spike3",
+            "DisplayName": "bldr_rock_bright_spike3",
+            "Position": [
+                3008.6572265625,
+                51.025089263916019,
+                7179.44482421875
+            ],
+            "Orientation": [
+                179.9998779296875,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_wallh1",
+            "DisplayName": "bldr_rock_bright_wallh1",
+            "Position": [
+                3043.278564453125,
+                73.75312805175781,
+                7221.30810546875
+            ],
+            "Orientation": [
+                27.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_monolith2",
+            "DisplayName": "bldr_rock_bright_monolith2",
+            "Position": [
+                3027.1943359375,
+                49.395267486572269,
+                7265.80029296875
+            ],
+            "Orientation": [
+                80.99995422363281,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 0.9999999403953552,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_spike3",
+            "DisplayName": "bldr_rock_bright_spike3",
+            "Position": [
+                2987.994384765625,
+                42.90788650512695,
+                7199.462890625
+            ],
+            "Orientation": [
+                170.99986267089845,
+                0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_monolith4",
+            "DisplayName": "bldr_rock_bright_monolith4",
+            "Position": [
+                3061.2763671875,
+                63.38730239868164,
+                7243.72802734375
+            ],
+            "Orientation": [
+                -45.0,
+                -1.5,
+                -13.999998092651368
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_wallv",
+            "DisplayName": "bldr_rock_bright_wallv",
+            "Position": [
+                3027.099853515625,
+                85.76292419433594,
+                7184.3994140625
+            ],
+            "Orientation": [
+                0.0,
+                -2.4999990463256838,
+                -90.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_spike1",
+            "DisplayName": "bldr_rock_bright_spike1",
+            "Position": [
+                3031.19921875,
+                67.35719299316406,
+                7166.798828125
+            ],
+            "Orientation": [
+                0.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_wallh3",
+            "DisplayName": "bldr_rock_bright_wallh3",
+            "Position": [
+                3017.096923828125,
+                60.08095932006836,
+                7154.89892578125
+            ],
+            "Orientation": [
+                18.0,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_spike3",
+            "DisplayName": "bldr_rock_bright_spike3",
+            "Position": [
+                2995.580078125,
+                72.60430145263672,
+                7179.81005859375
+            ],
+            "Orientation": [
+                1.5,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_spike1",
+            "DisplayName": "bldr_rock_bright_spike1",
+            "Position": [
+                3026.283935546875,
+                51.09783172607422,
+                7195.20703125
+            ],
+            "Orientation": [
+                89.99995422363281,
+                -0.0,
+                -0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_apart1",
+            "DisplayName": "bldr_rock_bright_apart1",
+            "Position": [
+                3082.002197265625,
+                67.04055786132813,
+                7271.1787109375
+            ],
+            "Orientation": [
+                -63.000030517578128,
+                0.0,
+                0.0
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_apart1",
+            "DisplayName": "bldr_rock_bright_apart1",
+            "Position": [
+                3060.659912109375,
+                63.53340148925781,
+                7282.60986328125
+            ],
+            "Orientation": [
+                -102.0,
+                -5.499999046325684,
+                -0.49999991059303286
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        },
+        {
+            "Type": "bldr_rock_bright_wallh3",
+            "DisplayName": "bldr_rock_bright_wallh3",
+            "Position": [
+                3010.2900390625,
+                43.619998931884769,
+                7222.16015625
+            ],
+            "Orientation": [
+                -160.6969451904297,
+                -49.498329162597659,
+                9.999999046325684
+            ],
+            "Scale": 1.0,
+            "Flags": 2147483647
+        }
+    ],
+    "EditorDeletedObjects": [
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3030.0546875,
+                61.2509765625,
+                7258.48388671875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2s_dark",
+            "Position": [
+                3042.794921875,
+                63.107421875,
+                7257.91064453125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2s_dark",
+            "Position": [
+                3037.4482421875,
+                60.3447265625,
+                7263.69580078125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Static_stone4_vol",
+            "Position": [
+                3037.04443359375,
+                53.4619140625,
+                7253.8037109375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_t_PiceaAbies_1sb_dark",
+            "Position": [
+                3031.796875,
+                52.1630859375,
+                7259.54833984375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2f_dark",
+            "Position": [
+                3020.92138671875,
+                57.7099609375,
+                7200.4619140625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3025.220703125,
+                58.8740234375,
+                7205.1298828125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2f_dark",
+            "Position": [
+                3015.76171875,
+                55.724609375,
+                7208.201171875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2f_dark",
+            "Position": [
+                3018.58740234375,
+                56.1767578125,
+                7214.5888671875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3018.8330078125,
+                57.041015625,
+                7211.05078125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3009.7431640625,
+                55.140625,
+                7207.34130859375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3027.29296875,
+                58.5263671875,
+                7215.33544921875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3011.9111328125,
+                55.228515625,
+                7204.12890625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3009.49365234375,
+                56.8671875,
+                7198.41552734375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3010.8125,
+                57.6220703125,
+                7191.05419921875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3004.85693359375,
+                55.7646484375,
+                7193.0400390625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3014.27685546875,
+                57.5654296875,
+                7195.939453125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3018.5966796875,
+                59.1298828125,
+                7188.0625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2f_dark",
+            "Position": [
+                3023.74658203125,
+                58.099609375,
+                7193.091796875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Static_stone1_vol",
+            "Position": [
+                3015.98779296875,
+                50.0166015625,
+                7184.666015625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2f_dark",
+            "Position": [
+                3002.82861328125,
+                56.060546875,
+                7185.974609375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2s_dark",
+            "Position": [
+                3006.037109375,
+                56.1513671875,
+                7181.86767578125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3030.259765625,
+                61.3017578125,
+                7191.27392578125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3043.7734375,
+                63.9462890625,
+                7191.05419921875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3043.65625,
+                63.19921875,
+                7197.40771484375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3037.1005859375,
+                61.7919921875,
+                7193.74658203125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3033.48388671875,
+                62.9541015625,
+                7184.2138671875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2f_dark",
+            "Position": [
+                3046.62060546875,
+                63.056640625,
+                7194.20703125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2f_dark",
+            "Position": [
+                3038.64306640625,
+                62.2060546875,
+                7185.4423828125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3032.18701171875,
+                59.8095703125,
+                7198.0458984375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3043.8564453125,
+                62.80859375,
+                7204.0341796875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_piceaabies_2d_dark",
+            "Position": [
+                3035.5458984375,
+                57.037109375,
+                7203.42138671875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3046.62060546875,
+                64.2783203125,
+                7211.25146484375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_piceaabies_3d_dark",
+            "Position": [
+                3047.0810546875,
+                65.3837890625,
+                7218.1611328125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3032.7138671875,
+                59.763671875,
+                7215.203125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_piceaabies_2d_dark",
+            "Position": [
+                3040.3046875,
+                59.2958984375,
+                7220.005859375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_piceaabies_2d_dark",
+            "Position": [
+                3040.0107421875,
+                58.3310546875,
+                7214.7646484375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Static_stone4_vol",
+            "Position": [
+                3037.4921875,
+                50.73828125,
+                7209.6884765625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Static_stone1_vol",
+            "Position": [
+                3033.6611328125,
+                49.978515625,
+                7207.142578125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_piceaabies_2d_dark",
+            "Position": [
+                3055.0576171875,
+                63.876953125,
+                7215.10791015625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3046.6279296875,
+                66.82421875,
+                7183.47705078125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3053.22265625,
+                69.1376953125,
+                7185.12109375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2f_dark",
+            "Position": [
+                3057.369140625,
+                66.24609375,
+                7194.36083984375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2f_dark",
+            "Position": [
+                3051.41845703125,
+                70.1533203125,
+                7178.93212890625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3051.134765625,
+                65.4931640625,
+                7192.04296875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_piceaabies_2d_dark",
+            "Position": [
+                3056.12109375,
+                64.40234375,
+                7190.20751953125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3053.376953125,
+                65.0556640625,
+                7201.57763671875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3058.056640625,
+                67.3876953125,
+                7209.73193359375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3063.818359375,
+                68.951171875,
+                7206.03076171875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3055.68017578125,
+                66.201171875,
+                7204.80224609375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3058.826171875,
+                67.8134765625,
+                7200.61279296875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3062.5615234375,
+                69.64063262939453,
+                7191.8232421875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3066.275146484375,
+                69.38654327392578,
+                7197.431640625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2f_dark",
+            "Position": [
+                3057.033203125,
+                69.3056640625,
+                7230.13818359375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3055.9873046875,
+                69.21484375,
+                7222.1533203125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3052.23486328125,
+                67.55078125,
+                7226.107421875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3067.2060546875,
+                71.1806640625,
+                7217.2783203125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3062.50390625,
+                69.6982421875,
+                7216.79833984375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3066.054443359375,
+                72.1949691772461,
+                7225.7236328125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3057.4169921875,
+                69.8544921875,
+                7238.58349609375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2sb_dark",
+            "Position": [
+                3061.5830078125,
+                66.4638671875,
+                7233.64794921875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2sb_dark",
+            "Position": [
+                3064.9404296875,
+                67.640625,
+                7240.666015625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_1f_dark",
+            "Position": [
+                3067.4375,
+                65.07421875,
+                7243.61669921875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2s_dark",
+            "Position": [
+                3051.34375,
+                64.4990234375,
+                7234.45556640625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3039.7109375,
+                62.583984375,
+                7226.91357421875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2f_dark",
+            "Position": [
+                3060.2138671875,
+                70.59375,
+                7183.32958984375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2f_dark",
+            "Position": [
+                3026.7666015625,
+                65.4423828125,
+                7175.693359375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_1f_dark",
+            "Position": [
+                2955.44677734375,
+                45.46969223022461,
+                7188.16650390625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_t_PiceaAbies_1sb_dark",
+            "Position": [
+                2952.921875,
+                43.86421203613281,
+                7177.85791015625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2sb_dark",
+            "Position": [
+                2957.603515625,
+                50.60919952392578,
+                7181.00244140625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2s_dark",
+            "Position": [
+                2955.628662109375,
+                51.21007537841797,
+                7171.56298828125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_1f_dark",
+            "Position": [
+                2952.410400390625,
+                47.2021369934082,
+                7162.4521484375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2s_dark",
+            "Position": [
+                2960.833251953125,
+                52.491580963134769,
+                7155.8544921875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_1f_dark",
+            "Position": [
+                2966.728515625,
+                48.963539123535159,
+                7153.22314453125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_t_PiceaAbies_1sb_dark",
+            "Position": [
+                2967.63525390625,
+                47.614479064941409,
+                7150.8134765625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2sb_dark",
+            "Position": [
+                2972.5439453125,
+                56.26116180419922,
+                7148.09423828125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                2980.879150390625,
+                62.04306411743164,
+                7140.74853515625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2s_dark",
+            "Position": [
+                2991.397705078125,
+                64.04058074951172,
+                7130.8720703125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2sb_dark",
+            "Position": [
+                2998.436279296875,
+                64.0228271484375,
+                7128.54345703125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_t_PiceaAbies_1sb_dark",
+            "Position": [
+                3007.18701171875,
+                62.94285583496094,
+                7119.41943359375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "Static_stone4_vol",
+            "Position": [
+                3016.130126953125,
+                65.3620834350586,
+                7116.4228515625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2sb_dark",
+            "Position": [
+                3018.489990234375,
+                75.41426849365235,
+                7108.5693359375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2s_dark",
+            "Position": [
+                3022.6357421875,
+                78.0242919921875,
+                7108.5693359375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2sb_dark",
+            "Position": [
+                3029.25732421875,
+                82.54834747314453,
+                7103.4970703125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "",
+            "Position": [
+                3034.923828125,
+                77.29534912109375,
+                7097.521484375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3026.8125,
+                58.572265625,
+                7220.61767578125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3030.994140625,
+                59.81640625,
+                7222.5732421875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "EditorCamera",
+            "Position": [
+                3031.381591796875,
+                59.53116226196289,
+                7221.96484375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2sb_dark",
+            "Position": [
+                2993.0849609375,
+                49.3623046875,
+                7210.53271484375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2s_dark",
+            "Position": [
+                2989.1826171875,
+                45.216796875,
+                7214.8896484375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2s_dark",
+            "Position": [
+                2999.46630859375,
+                49.1962890625,
+                7215.23828125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2s_dark",
+            "Position": [
+                2997.52490234375,
+                47.9794921875,
+                7223.1728515625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_t_PiceaAbies_1sb_dark",
+            "Position": [
+                2990.568359375,
+                41.8564453125,
+                7218.60400390625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2f_dark",
+            "Position": [
+                3002.806640625,
+                53.59375,
+                7201.912109375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3003.232421875,
+                53.2666015625,
+                7211.517578125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2f_dark",
+            "Position": [
+                3005.2685546875,
+                52.666015625,
+                7220.59375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2sb_dark",
+            "Position": [
+                2992.9443359375,
+                49.3720703125,
+                7195.75
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2s_dark",
+            "Position": [
+                2984.4990234375,
+                48.2705078125,
+                7194.98193359375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2s_dark",
+            "Position": [
+                2989.4892578125,
+                48.7431640625,
+                7191.52734375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2f_dark",
+            "Position": [
+                2990.0361328125,
+                51.20703125,
+                7200.67138671875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2s_dark",
+            "Position": [
+                2983.9228515625,
+                48.306640625,
+                7202.4677734375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2f_dark",
+            "Position": [
+                3010.33544921875,
+                54.509765625,
+                7213.376953125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3013.0595703125,
+                55.6845703125,
+                7220.853515625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2s_dark",
+            "Position": [
+                3012.1572265625,
+                51.62109375,
+                7226.0126953125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2sb_dark",
+            "Position": [
+                3000.904296875,
+                48.0498046875,
+                7226.9482421875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_t_PiceaAbies_1sb_dark",
+            "Position": [
+                3013.3681640625,
+                46.7265625,
+                7231.28076171875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "BushHard_t_PiceaAbies_1sb_dark",
+            "Position": [
+                3003.24609375,
+                44.3916015625,
+                7229.51220703125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3022.7880859375,
+                58.7373046875,
+                7233.90380859375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3019.931640625,
+                57.59375,
+                7237.2001953125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3027.8876953125,
+                59.6123046875,
+                7238.73681640625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3021.4697265625,
+                58.0302734375,
+                7221.927734375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3028.501953125,
+                58.9931640625,
+                7230.29150390625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3019.931640625,
+                56.5791015625,
+                7225.22412109375
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2s_dark",
+            "Position": [
+                3018.244140625,
+                53.65625,
+                7228.06689453125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2s_dark",
+            "Position": [
+                3022.4423828125,
+                54.2998046875,
+                7242.52294921875
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2fb_dark",
+            "Position": [
+                3032.6640625,
+                62.4833984375,
+                7249.96923828125
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2s_dark",
+            "Position": [
+                3033.8623046875,
+                58.2080078125,
+                7245.2744140625
+            ],
+            "Flags": 0
+        },
+        {
+            "Type": "TreeHard_t_PiceaAbies_2s_dark",
+            "Position": [
+                3026.30078125,
+                54.505859375,
+                7251.0361328125
+            ],
+            "Flags": 0
+        }
+    ]
+}
